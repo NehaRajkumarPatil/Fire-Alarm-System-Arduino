@@ -29,5 +29,3 @@ The system can later be upgraded with IoT, GSM alerts, or remote monitoring for 
 - IoT monitoring using ESP8266
 - GSM alerts with SIM800L
 - Real-time dashboard alerts
-
-## 📁 Folder Structure
